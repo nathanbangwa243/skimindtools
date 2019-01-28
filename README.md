@@ -1,1 +1,1 @@
-skimindtools is an learning model based on the mathematical set theory
+skimindtools is a learning model based on the mathematical set theory
